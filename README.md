@@ -6,7 +6,7 @@ Started on: 19-05-2018
 
 Closed on: 19-05-2018
 
-# SringData JPA configuration branch
-Started on: 19-05-2018
+# Sring Data JPA configuration branch
+Started on:  19-05-2018
 
 Closed on: 
