@@ -14,4 +14,4 @@ Closed on: 20-05-2018
 # JUnit configuration branch
 Started on: 20-05-2018
 
-Closed on: 
+Closed on: 22-05-2018
