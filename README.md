@@ -7,6 +7,11 @@ Started on: 19-05-2018
 Closed on: 19-05-2018
 
 # Sring Data JPA configuration branch
-Started on:  19-05-2018
+Started on: 19-05-2018
 
 Closed on: 20-05-2018
+
+# JUnit configuration branch
+Started on: 20-05-2018
+
+Closed on: 22-05-2018
