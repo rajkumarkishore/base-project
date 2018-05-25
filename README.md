@@ -20,3 +20,8 @@ Closed on: 22-05-2018
 Started on: 23-05-2018
 
 Closed on: 25-05-2018
+
+# Application Profiles Configuration branch
+Started on: 25-05-2018
+
+Closed on: 25-05-2018
