@@ -6,7 +6,7 @@ Started on: 19-05-2018
 
 Closed on: 19-05-2018
 
-# Sring Data JPA configuration branch
+# Spring Data JPA configuration branch
 Started on: 19-05-2018
 
 Closed on: 20-05-2018
@@ -15,3 +15,8 @@ Closed on: 20-05-2018
 Started on: 20-05-2018
 
 Closed on: 22-05-2018
+
+# Error handling branch
+Started on: 23-05-2018
+
+Closed on: 25-05-2018

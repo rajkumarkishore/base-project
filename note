@@ -6,3 +6,6 @@ https://github.com/OneBusAway/onebusaway/wiki/Importing-source-code-into-Eclipse
 
 #### Spring Junit & Mockito
 https://medium.com/@gustavo.ponce.ch/spring-boot-restful-junit-mockito-hamcrest-eclemma-5add7f725d4e
+
+#### Error handling resource
+http://www.springboottutorial.com/spring-boot-exception-handling-for-rest-services
